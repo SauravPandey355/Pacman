@@ -1,0 +1,55 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 600px;
+    width: 600px;
+    border : solid red; 
+    background-color: black;
+}
+.grid box{
+    height:20px;
+    width:20px;
+}
+
+.pac-dot{
+    border-radius: 10px;
+    background-color: green;
+}
+
+.wall{
+    background-color: blue;
+}
+
+.power-pellet{
+    background-color: rgb(255, 255, 0);
+    border-radius: 10px;
+}
+
+.pac-man{
+    background-color: yellowgreen;
+    border-radius: 15px ;
+}
+
+.ghost-lair{
+    background-color:black;
+}
+
+.g1{
+    background-color: violet;
+    border-radius: 10px ;
+}
+.g2{
+    background-color: lightcoral;
+    border-radius: 10px ;
+}
+.g3{
+    background-color: lawngreen;
+    border-radius: 10px ;
+}
+.g4{
+    background-color: orange;
+    border-radius: 10px ;
+}
+.scared{
+    background-color: blue;
+}
